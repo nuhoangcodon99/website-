@@ -59,12 +59,12 @@
 </div>
 </div>
 <div class='profile-card-social'>
-<a class='profile-card-social__item facebook' href='https://www.facebook.com/Thuc9999' target='_blank'>
+<a class='profile-card-social__item facebook' href='https://www.facebook.com/bengokyeuanh.99' target='_blank'>
 <span class='icon-font'>
 <svg class='icon'><use xlink:href='#icon-facebook'></use></svg>
 </span>
 </a>
-<a class='profile-card-social__item link' href='https://nguyenngocthuc.com' target='_blank'>
+<a class='profile-card-social__item link' href='https://ngoccute.tk' target='_blank'>
 <span class='icon-font'>
 <svg class='icon'><use xlink:href='#icon-link'></use></svg>
 </span>
